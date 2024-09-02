@@ -260,7 +260,7 @@ int main()
     {
         for(int b=0; b<3; b++)
         {
-            in>>input;
+            cin>>input;
             
             initial[a][b]=input;
         }
@@ -270,7 +270,7 @@ int main()
     {
         for(int b=0; b<3; b++)
         {
-            in>>input;
+            cin>>input;
             
             goal[a][b]=input;
         }
